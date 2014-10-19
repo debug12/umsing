@@ -1,0 +1,200 @@
+/*   
+ * Theme Name: MACC
+ * Description: 
+ * Author: Three Stones Web
+ * Author URL: http://www.umich.edu/~sunghei/
+*/
+
+
+
+/* EXISTING TAGS */
+
+html, body { 
+	margin:0px;
+	padding: 0px;
+}
+#indexPic {
+position:absolute;
+z-index:6;
+top: 122px;
+left: 163px;
+}
+#box {
+	text-align:center;
+}
+
+#logo {
+	position: absolute;
+	text-align:center;
+	left:-114px;
+	margin-left:50%;
+	top: 0px;
+	z-index:5;
+}
+
+#home {
+	position: absolute;
+	text-align:center;
+	margin-left:0%;
+	top: 0px;
+	z-index:6;
+}
+
+#history {
+	position: absolute;
+	text-align:center;
+	margin-left:10%;
+	top: 0px;
+	z-index:6;
+}
+
+#calendar {
+	position: absolute;
+	text-align:center;
+	margin-left:21%;
+	top: 0px;
+	z-index:6;
+}
+
+#links {
+	position: absolute;
+	text-align:center;
+	margin-left:70%;
+	top: 0px;
+	z-index:6;
+}
+
+#contacts {
+	position: absolute;
+	text-align:center;
+	margin-left:90%;
+	top: 0px;
+	z-index:6;
+}
+
+#pictures {
+	position: absolute;
+	text-align:center;
+	margin-left:79%;
+	top: 0px;
+	z-index:6;
+}
+
+#circle {
+	position: absolute;
+	left:32px;
+	top: 25px;
+	z-index:1;
+}
+
+#boxcenter {
+	top:50px;
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:700px;
+	text-align:left;
+	z-index: 2;
+}
+
+#main{
+	position:relative;
+	background:url(subcontent/test.jpg);
+	width:700px;
+	height:inherit;
+	background-image:url(subcontent/side.png);
+}
+
+#main2{
+	position:relative;
+	background:url(subcontent/test.jpg);
+	width:700px;
+	height:inherit;
+	background-image:url(subcontent/side2.png);
+}
+
+#main_text {
+	font-family:Arial, Helvetica, sans-serif;
+	position:relative;
+	left: 15px;
+	width: 670px;
+	top:0px;
+}
+
+#main_text2 {
+	font-family:Arial, Helvetica, sans-serif;
+	position:relative;
+	left: 15px;
+	width: 670px;
+	top:0px;
+	background-color:#000000;
+}
+
+#menu {
+	position:relative;
+	left:0px;
+	font-size: 18px;
+	top: 15px;
+	width: 700px;
+	text-align:left;
+}
+
+#header {
+	height:56px;
+	position:relative;
+	width:100%;
+	background-image: url(subcontent/headerbg.jpg);
+	background-repeat:repeat-x;
+	z-index: 3;
+}
+
+#footer {
+	position:absolute;
+	height:32px;
+	width:100%;
+	background-image: url(subcontent/footerbg.jpg);
+	background-repeat:repeat-x;
+	z-index: 3;
+}
+
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #0B85FF;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+body {
+	background-image: url(subcontent/bg.png);
+	background-repeat: repeat-x;
+	background-color: #f3eb81;
+}
+
+.style2 {
+	color: #FFFFFF;
+	font-size: 12px;
+}
+
+.style3 {
+	font-family: "Verdana";
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF
+}
+
+.center_image {
+	background-color: #000000;
+	right: 50%;
+}

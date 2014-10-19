@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>MACC - Home </title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<style type="styles.css">
+<!--
+a {
+	}
+
+body {
+	font-family: "Verdana";
+	font-size: 8pt;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+.style1 {
+	color: #FFFFFF;
+	font-family: "Verdana";
+}
+
+.style2 {	
+	font-family: "Verdana";
+	color: #4C77C1;
+	font-weight: bold;
+	font-size: 16px;
+}
+.style3 {	
+	font-family: "Verdana";
+	font-size: 14px;
+	color: #C7C648;
+	font-weight: bold;
+}
+.style4 {
+	font-family: "Verdana";
+	}
+
+p1   {
+	font-family: "Verdana";
+	font-size: 8pt;
+	font-weight: bold;
+	color: #4C77C1;
+	margin-bottom: 11px;
+	margin-top: 0px
+	}
+
+p   {
+	font-family: "Verdana";
+	font-size: 8pt;
+	color: #000000;
+	margin-bottom: 11px;
+	margin-top: 0px
+	}
+
+.sectionbreak {
+	font-family: "Verdana";
+	font-size: 8pt;
+	color: #000000;
+	margin-bottom: 0px;
+	margin-top: 0px
+	}
+
+.center_image {
+	background-color: #000000;
+	right: 50%;
+}
+-->
+</style>
+</head>
+
+<body>
+<p><span class="style2">H</span><span class="style3">ome</span></p>
+<p class="style2"><u><a href="boma.html" class="style5">Best of Michigan A Cappella</a></u> CD is here! </p>
+<p><span class="style4">The Michigan A Cappella Council proudly announces that the brand new &quot;Best of Michigan A Cappella&quot; CD is now available for purchase. All proceeds will be going to <a href="http://www.vh1savethemusic.com/" target="_blank">VH1 Save The Music</a>, a charitable organization that supports Music Education in public schools. </span><a href="boma.html">Click here to find out more and purchase your copy today!</a> </p>
+<p align="center"><a href="boma.html" target="_self"><img src="BOMAalbumcover.jpg" alt="Best of Michigan A Cappella Album Cover" width="305" height="303" border="0" /></a></p>
+<p class="style2">Greetings a cappella       singers and fans! </p>
+<p>Welcome to the all-new Michigan A Cappella Council  website!&nbsp; Here you can find information  on all of the University of Michigan's a cappella groups and their joint  concerts, including MACFest. The University of Michigan fosters one of the nation's most eclectic a cappella communities. In total, fourteen talented and diverse groups reside on U of M's campus, and many of these groups have received the a cappella world's highest honors. They have been featured on compilation CD's such as &quot;Best of Collegiate A Cappella&quot; (BOCA) and have gained recognition through the International Championship of Collegiate A Cappella (ICCA). </p>
+<p>Michigan's a cappella groups are&hellip;
+<ul>
+<li>  Amazin' Blue (coed)</li>
+<li>  Compulsive Lyres (coed)</li>
+<li>  Dicks and Janes (coed)</li>
+<li>  Friars (all-male)</li>
+<li>  Gimble (coed)</li>
+<li>  GMen (all-male)</li>
+<li>  Good News (coed, Christian)</li>
+<li>  Harmonettes (all-female)</li>
+<li>  Kol Hakavod (coed, Jewish)</li>
+<li>  Kopitonez (coed, Asian-interest)</li>
+<li>  Maize Mirchi (coed, South-Asian interest)</li>
+<li>Midnight Blue (all-female)</li>
+<li>  Sopranos (all-female)</li>
+<li>  58 Greene (coed, multicultural)</li></ul>
+<p>With such a large community, it is necessary to have an organization that helps groups maintain communication.  The Michigan A Cappella Council (MACC) was formed to facilitate a dialogue between groups and the community. The council provides a voice for campus a cappella groups and acts as a liaison between the university and the a cappella community.  The council also helps to bring the community together through social events and collaborative productions such as MACFest and A Cappella Rush.</p>
+<p>All information pertaining to MACC events, such as MACFest on November 5, can be found on this MACC website.  Information on individual groups such as recent albums and semester concerts can also be found here.  Continue checking the website for updates on campus a cappella and MACC events!  </p>
+<p>We appreciate continued support from the outside community and look forward to entertaining you throughout the 2011-2012 season.  </p>
+<p>If you have any questions please feel free to email the MACC executive committee at <a href="mailto:maccexec@umich.edu  ">maccexec@umich.edu </a></p>
+<p>And, of course, Go Blue!  </p>
+<p>&nbsp;</p>
+<p class="style2"> <strong>Upcoming Events</strong></p>
+<p align="left" class="style4">MACFest&mdash;Friday, November 2nd, 2012; 7:00PM <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Rackham+Auditorum,+Ann+Arbor,+MI&amp;vps=1&amp;sll=42.279396,-83.737557&amp;sspn=0.004636,0.007596&amp;ie=UTF8&amp;hq=Rackham+Auditorum,&amp;hnear=Ann+Arbor,+Washtenaw,+Michigan" target="_blank">Rackham Auditorium</a></p>
+<p class="style4">&nbsp;</p>
+<p class="style4"><center><a href="http://betteracappella.com/arrangementindex/search/node/University%20of%20Michigan" target="_blank"_parent"><img src="http://betteracappella.com/arrangementindex/BACbutton.png" alt="Check Out Our Arrangements on betteracappella.com" width="388" height="108" border="0" /></a>
+</center></p>
+<p class="style4">&nbsp;</p>
+</body>
+</html>
